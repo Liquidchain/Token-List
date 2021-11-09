@@ -1,0 +1,22 @@
+{
+  "name": "ERC20 Token List",
+  "logoURI": "https://token.liquidchain.net/image/xlc.png",
+  "tokens": [
+    {
+      "name": "Wrapped XLC",
+      "address": "0x7827FC9D7aC69407Fb26F8cD95d44E5F97Ec61ef",
+      "symbol": "WXLC",
+      "decimals": 18,
+      "chainId": 5050,
+      "logoURI": "https://token.liquidchain.net/image/0x7827FC9D7aC69407Fb26F8cD95d44E5F97Ec61ef.png"
+    },
+    {
+      "name": "Liquidchain-Peg USD Coin",
+      "address": "0xF38567FcDf91E188C91c91c41A98622B00B4c167",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 5050,
+      "logoURI": "https://token.liquidchain.net/image/0xF38567FcDf91E188C91c91c41A98622B00B4c167.png"
+    }
+  ]
+}
